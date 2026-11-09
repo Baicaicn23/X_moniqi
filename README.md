@@ -2,6 +2,8 @@
 
 在浏览器里把一段文字做成简洁的 X 风格推文卡片：实时预览，一键导出 1206 像素宽的 PNG。手机、电脑都能用，无需安装，图片和文案只在本地处理。
 
+**在线使用：** https://baicaicn23.github.io/X_moniqi/
+
 <p align="center">
   <img src="assets/phone-open.png" width="31%" alt="手机打开：默认预览与输入表单">
   <img src="assets/phone-edit.png" width="31%" alt="手机编辑：输入正文后预览实时更新">
@@ -11,7 +13,7 @@
 
 ## 快速开始
 
-1. 打开在线版本；在电脑上也可以下载 `index.html`，直接用浏览器打开。
+1. 打开在线版本：https://baicaicn23.github.io/X_moniqi/ ；在电脑上也可以下载 `index.html`，直接用浏览器打开。
 2. 填写账号名称，上传头像，输入推文正文。需要更多控制时，展开“高级设置”。
 3. 点击“生成图片”，然后保存
 
